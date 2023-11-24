@@ -1,5 +1,9 @@
 # expense_planner
 
+Track, Save, and Master Your Finances with Ease
+
+Money?! is a cross-platform Flutter-based mobile application designed for efficient financial management. Users can seamlessly add and save daily transactions, providing a comprehensive overview of their expenses. The app facilitates easy comparison of daily spending patterns throughout the week, empowering users to make informed financial decisions.
+
 A new Flutter application.
 
 ## Getting Started
